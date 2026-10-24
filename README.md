@@ -1,4 +1,4 @@
-# GUARDIAN RED | Offensive Security & AppSec
+# GUARDIAN RED  Offensive Security & AppSec
 
 **Segurança ofensiva • Pentest Web • AppSec • Pesquisa de Vulnerabilidades**
 
